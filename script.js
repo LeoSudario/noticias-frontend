@@ -1,5 +1,5 @@
 // Configure a URL do seu backend aqui
-const API_URL = "https://noticias-backend-ezna.onrender.com";
+const API_URL = "https://noticias-frontend-rho.vercel.app";
 
 async function carregarNoticias() {
   const container = document.getElementById("noticias");
